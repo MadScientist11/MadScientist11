@@ -33,6 +33,8 @@ About a year ago I fell in love with shaders and have been learning about them s
     <a href="https://github.com/MadScientist11/Procedural-Planets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Procedural-Planets&theme=dark&bg_color=1F222E" alt="procedural-planets"></a>
     <a href="https://github.com/MadScientist11/Terrain-Dynamic-LOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Terrain-Dynamic-LOD&theme=dark&bg_color=1F222E" alt="quad-tree"></a>
     <a href="https://github.com/MadScientist11/SteamPunkChess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=SteamPunkChess&theme=dark&bg_color=1F222E" alt="steampunkchess"></a>
+    <a href="https://github.com/MadScientist11/Tanks-3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Tanks-3D&theme=dark&bg_color=1F222E" alt="tanks-3d"></a>
+     
   </p>
 
   <a href="https://github.com/MadScientist11?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
