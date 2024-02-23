@@ -31,9 +31,8 @@ About a year ago I fell in love with shaders and have been learning about them s
     <a href="https://github.com/MadScientist11/Unity-Polygon-Chart"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Unity-Polygon-Chart&theme=dark&bg_color=1F222E" alt="chart-procedural"></a>
     <a href="https://github.com/MadScientist11/game-of-life"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=game-of-life&theme=dark&bg_color=1F222E" alt="game-of-life"></a>
     <a href="https://github.com/MadScientist11/Procedural-Planets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Procedural-Planets&theme=dark&bg_color=1F222E" alt="procedural-planets"></a>
-    <a href="https://github.com/MadScientist11/Hypercasual"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Hypercasual&theme=dark&bg_color=1F222E" alt="hypercasual"></a>
-   <a href="https://github.com/MadScientist11/Terrain-Dynamic-LOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Terrain-Dynamic-LOD&theme=dark&bg_color=1F222E" alt="quad-tree"></a>
-     <a href="https://github.com/MadScientist11/SteamPunkChess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=SteamPunkChess&theme=dark&bg_color=1F222E" alt="steampunkchess"></a>
+    <a href="https://github.com/MadScientist11/Terrain-Dynamic-LOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Terrain-Dynamic-LOD&theme=dark&bg_color=1F222E" alt="quad-tree"></a>
+    <a href="https://github.com/MadScientist11/SteamPunkChess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=SteamPunkChess&theme=dark&bg_color=1F222E" alt="steampunkchess"></a>
   </p>
 
   <a href="https://github.com/MadScientist11?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
