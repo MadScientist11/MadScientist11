@@ -33,7 +33,6 @@ About a year ago I fell in love with shaders and have been learning about them s
     <a href="https://github.com/MadScientist11/Procedural-Planets"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Procedural-Planets&theme=dark&bg_color=1F222E" alt="procedural-planets"></a>
     <a href="https://github.com/MadScientist11/Terrain-Dynamic-LOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Terrain-Dynamic-LOD&theme=dark&bg_color=1F222E" alt="quad-tree"></a>
     <a href="https://github.com/MadScientist11/SteamPunkChess"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=SteamPunkChess&theme=dark&bg_color=1F222E" alt="steampunkchess"></a>
-    <a href="https://github.com/MadScientist11/Tanks-3D"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MadScientist11&repo=Tanks-3D&theme=dark&bg_color=1F222E" alt="tanks-3d"></a>
      
   </p>
 
